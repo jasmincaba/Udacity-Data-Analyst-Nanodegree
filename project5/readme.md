@@ -10,6 +10,9 @@
 ## Summary of Findings
 
 > Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+- There are some outliers on duration distribution and  we should limit x axis values to 60 minutes. 
+- Distribution is right skewed
+
 
 
 ## Key Insights for Presentation
