@@ -23,7 +23,7 @@
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
+
 - It looks like mostly peoply use bikes on working days. We can assume the purpose of bike sharing service is to get to the work
 - From the boxplot we can see that users who are subscribers ride bikes for shorter period of time then customers type of users.
 Subscribers are regular users, people who use bike-sharing service on daily basis, so they know route to their destination. Knowing trip route shortens bike ride duration.
