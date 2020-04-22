@@ -1,10 +1,10 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Bay Wheels's trip data Analysis and Visualization
+## by Jasmin Cabaravdic
 
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+> Ba Wheel's data set includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. All data is available <a href="https://s3.amazonaws.com/baywheels-data/index.html">here</a> as monthly datasets. Data for 2019 year will be downloaded and merged to one dataset.
 
 
 ## Summary of Findings
